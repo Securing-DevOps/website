@@ -1,0 +1,4 @@
+baseurl = "https://securing-devops.com/"
+languageCode = "en-us"
+title = "Securing DevOps"
+theme = "ghostwriter"
